@@ -25,7 +25,7 @@
           <li><a href="courses/courses.php">Courses</a></li>
           <li><a href="placement/placement.php">Placement</a></li>
           <li><a href="contactUs/contactUs.php">Contact Us</a></li>
-          <button class="signupbutton">Sign Up</button>
+          <button class="signupbutton"  onclick="openForm()">Sign Up</button>
         </ul>
     </nav>
 
@@ -215,5 +215,40 @@
   </div>
 </section>  
 <!-- <script src="main.js"></script> -->
+
+<div class="form-popup" id="myForm">
+  <form action="/action_page.php" class="form-container">
+    <h2 class="signupform">Sign Up Form</h2>
+
+    <label for="name"><b>Name :</b></label>
+    <input type="text" placeholder="Enter Name" name="psw" required>
+
+    <label for="name"><b>Mobile No :</b></label>
+    <input type="text" placeholder="Enter Mobile No" name="psw" required>
+
+    <label for="email"><b>Email :</b></label>
+    <input type="text" placeholder="Enter Email" name="email" required>
+
+    <label for="psw"><b>Password :</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" required>
+
+    <label for="psw"><b>Confirm Password :</b></label>
+    <input type="password" placeholder="Confirm Password" name="psw" required>
+
+    <button type="submit" class="btn">Login</button>
+    <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
+  </form>
+</div>
+
+<script>
+function openForm() {
+  document.getElementById("myForm").style.display = "block";
+}
+
+function closeForm() {
+  document.getElementById("myForm").style.display = "none";
+}
+</script>
+
 </body>
 </html>

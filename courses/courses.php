@@ -51,25 +51,25 @@
        <div class="main-img-container">
         <div class="img-container">
             <div class="img-card"><div class="image"><img src="\Project\public\images\(4).png" alt=""></div>
-            <div class="button">
+            <div class="button" onclick="document.location='/Project/viewCourse/viewCourse.php'">
              <label>View Details</label>
             </div>
           </div>
 
             <div class="img-card"><div class="image"><img src="\Project\public\images\(3).png" alt=""></div>
-            <div class="button">
+            <div class="button" onclick="document.location='/Project/viewCourse/viewCourse.php'">
               <label>View Details</label>
             </div>
           </div>
 
             <div class="img-card"><div class="image"><img src="\Project\public\images\(5).png" alt=""></div>
-            <div class="button">
+            <div class="button" onclick="document.location='/Project/viewCourse/viewCourse.php'">
               <label>View Details</label>
             </div>
           </div>
 
             <div class="img-card"><div class="image"><img src="\Project\public\images\(1).jpg" alt=""></div>
-            <div class="button">
+            <div class="button" onclick="document.location='/Project/viewCourse/viewCourse.php'">
               <label>View Details</label>
             </div>
           </div>
@@ -77,25 +77,25 @@
 
         <div class="img-container">
           <div class="img-card"><div class="image"><img src="\Project\public\images\(2).jpg" alt=""></div>
-          <div class="button">
+          <div class="button" onclick="document.location='/Project/viewCourse/viewCourse.php'">
             <label>View Details</label>
           </div>
         </div>
 
           <div class="img-card"><div class="image"><img src="\Project\public\images\Devops.jpg" alt=""></div>
-          <div class="button">
+          <div class="button" onclick="document.location='/Project/viewCourse/viewCourse.php'">
             <label>View Details</label>
           </div>
         </div>
           
           <div class="img-card"><div class="image"><img src="\Project\public\images\Pythonnew.jpg" alt=""></div>
-          <div class="button">
+          <div class="button" onclick="document.location='/Project/viewCourse/viewCourse.php'">
             <label>View Details</label>
           </div>
         </div>
           
           <div class="img-card"><div class="image"><img src="\Project\public\images\web development.jpg" alt=""></div>
-          <div class="button">
+          <div class="button" onclick="document.location='/Project/viewCourse/viewCourse.php'">
             <label>View Details</label>
           </div>
         </div>

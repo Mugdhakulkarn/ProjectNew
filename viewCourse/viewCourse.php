@@ -50,25 +50,25 @@
         
        <div class="main-img-container">
         <div class="img-container">
-            <div class="img-card"><p>Although numerous computer languages are used for writing computer applications, the computer programming language, C, is the most popular language worldwide. </p>
+            <div class="img-card"><div class=information><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p></div>
             <div class="button">
              <label>C</label>
             </div>
           </div>
 
-            <div class="img-card"><p>Although numerous computer languages are used for writing computer applications, the computer programming language, C, is the most popular language worldwide.</p>
+            <div class="img-card"><div class=information><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div>
             <div class="button">
               <label>C++</label>
             </div>
           </div>
 
-            <div class="img-card"><p>Although numerous computer languages are used for writing computer applications, the computer programming language, C, is the most popular language worldwide.</p>
+            <div class="img-card"><div class=information><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div>
             <div class="button">
               <label>Java</label>
             </div>
           </div>
 
-            <div class="img-card"><p>Although numerous computer languages are used for writing computer applications, the computer programming language, C, is the most popular language worldwide.</p>
+            <div class="img-card"><div class=information><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div>
             <div class="button">
               <label>Web Development</label>
             </div>
@@ -76,25 +76,25 @@
         </div>
 
         <div class="img-container">
-          <div class="img-card"><p>Although numerous computer languages are used for writing computer applications, the computer programming language, C, is the most popular language worldwide.</p>
+          <div class="img-card"><div class=information><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div>
           <div class="button">
             <label>Python</label>
           </div>
         </div>
 
-          <div class="img-card"><p>Although numerous computer languages are used for writing computer applications, the computer programming language, C, is the most popular language worldwide.</p>
+          <div class="img-card"><div class=information><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div>
           <div class="button">
-            <label>.Net</label>
+            <label>C# .Net</label>
           </div>
         </div>
           
-          <div class="img-card"><p>Although numerous computer languages are used for writing computer applications, the computer programming language, C, is the most popular language worldwide.</p>
+          <div class="img-card"><div class=information><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div>
           <div class="button">
             <label>SQL</label>
           </div>
         </div>
           
-          <div class="img-card"><p>Although numerous computer languages are used for writing computer applications, the computer programming language, C, is the most popular language worldwide.</p>
+          <div class="img-card"><div class=information><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div>
           <div class="button">
             <label>DevOps</label>
           </div>
