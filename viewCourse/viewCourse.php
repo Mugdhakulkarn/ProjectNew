@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <link rel="stylesheet" type="text/css" href="styles.css">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" type="text/css" href="courses.css" />
+<link rel="stylesheet" type="text/css" href="viewCourse.css" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI610V8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer">
@@ -40,7 +40,7 @@
    <div class="maincontainer">
      <section id="future">
       <div>
-        <h3 class="title">OUR COURSES</h3>
+        <h3 class="title">COURSE DETAILS</h3>
       </div>
       <div class="banner-text">
         <h2>‘’ We offer all kind of training which helps you to groom your career. Training programs which suits all your need whether you are fresher or working professional.’’</h2>
@@ -50,53 +50,53 @@
         
        <div class="main-img-container">
         <div class="img-container">
-            <div class="img-card"><div class="image"><img src="\Project\public\images\(4).png" alt=""></div>
+            <div class="img-card"><p>Although numerous computer languages are used for writing computer applications, the computer programming language, C, is the most popular language worldwide. </p>
             <div class="button">
-             <label>View Details</label>
+             <label>C</label>
             </div>
           </div>
 
-            <div class="img-card"><div class="image"><img src="\Project\public\images\(3).png" alt=""></div>
+            <div class="img-card"><p>Although numerous computer languages are used for writing computer applications, the computer programming language, C, is the most popular language worldwide.</p>
             <div class="button">
-              <label>View Details</label>
+              <label>C++</label>
             </div>
           </div>
 
-            <div class="img-card"><div class="image"><img src="\Project\public\images\(5).png" alt=""></div>
+            <div class="img-card"><p>Although numerous computer languages are used for writing computer applications, the computer programming language, C, is the most popular language worldwide.</p>
             <div class="button">
-              <label>View Details</label>
+              <label>Java</label>
             </div>
           </div>
 
-            <div class="img-card"><div class="image"><img src="\Project\public\images\(1).jpg" alt=""></div>
+            <div class="img-card"><p>Although numerous computer languages are used for writing computer applications, the computer programming language, C, is the most popular language worldwide.</p>
             <div class="button">
-              <label>View Details</label>
+              <label>Web Development</label>
             </div>
           </div>
         </div>
 
         <div class="img-container">
-          <div class="img-card"><div class="image"><img src="\Project\public\images\(2).jpg" alt=""></div>
+          <div class="img-card"><p>Although numerous computer languages are used for writing computer applications, the computer programming language, C, is the most popular language worldwide.</p>
           <div class="button">
-            <label>View Details</label>
+            <label>Python</label>
           </div>
         </div>
 
-          <div class="img-card"><div class="image"><img src="\Project\public\images\Devops.jpg" alt=""></div>
+          <div class="img-card"><p>Although numerous computer languages are used for writing computer applications, the computer programming language, C, is the most popular language worldwide.</p>
           <div class="button">
-            <label>View Details</label>
+            <label>.Net</label>
           </div>
         </div>
           
-          <div class="img-card"><div class="image"><img src="\Project\public\images\Pythonnew.jpg" alt=""></div>
+          <div class="img-card"><p>Although numerous computer languages are used for writing computer applications, the computer programming language, C, is the most popular language worldwide.</p>
           <div class="button">
-            <label>View Details</label>
+            <label>SQL</label>
           </div>
         </div>
           
-          <div class="img-card"><div class="image"><img src="\Project\public\images\web development.jpg" alt=""></div>
+          <div class="img-card"><p>Although numerous computer languages are used for writing computer applications, the computer programming language, C, is the most popular language worldwide.</p>
           <div class="button">
-            <label>View Details</label>
+            <label>DevOps</label>
           </div>
         </div>
         </div>

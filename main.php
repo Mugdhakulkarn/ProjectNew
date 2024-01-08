@@ -11,7 +11,7 @@
 </head>
 <body>
 
-
+ 
    <section id="header">
     
     <nav>
@@ -19,12 +19,12 @@
           <p>Fork Infosystems</p>
         </div>
         <ul>
-          <li><a href="home/home.html">Home</a></li>
-          <li><a href="aboutUs/aboutUs.html">About Us</a></li>
-          <li><a href="gallery/gallery.html">Gallery</a></li>
-          <li><a href="courses/courses.html">Courses</a></li>
-          <li><a href="placement/placement.html">Placement</a></li>
-          <li><a href="contactUs/contactUs.html">Contact Us</a></li>
+          <li><a href="main.php">Home</a></li>
+          <li><a href="aboutUs/aboutUs.php">About Us</a></li>
+          <li><a href="gallery/gallery.php">Gallery</a></li>
+          <li><a href="courses/courses.php">Courses</a></li>
+          <li><a href="placement/placement.php">Placement</a></li>
+          <li><a href="contactUs/contactUs.php">Contact Us</a></li>
           <button class="signupbutton">Sign Up</button>
         </ul>
     </nav>
@@ -151,7 +151,7 @@
             </p>
         </div>
        <div class="left-image-container">
-          <img src="assets\images\downloa.png" class="textimg">
+          <img src="\Project\public\images\downloa.png" class="textimg">
        </div>
     </div>
 
@@ -164,7 +164,7 @@
 
   <div class="image-text-container">
     <div class="left-img-container">
-      <img src="assets\images\background1.jpg" class="textimg">
+      <img src="\Project\public\images\background1.jpg" class="textimg">
     </div>
     <div class="text-container">
       <ul class="text">
@@ -185,11 +185,11 @@
     </div>
    <div class="main-img-container">
     <div class="img-container">
-        <div class="img-card"><div class="image"><img src="assets/images/(4).png" alt=""></div></div>
-        <div class="img-card"><div class="image"><img src="assets/images/(3).png" alt=""></div></div>
-        <div class="img-card"><div class="image"><img src="assets/images/(5).png" alt=""></div></div>
-        <div class="img-card"><div class="image"><img src="assets/images/(1).jpg" alt=""></div></div>
-        <div class="img-card"><div class="image"><img src="assets/images/(2).jpg" alt=""></div></div>
+        <div class="img-card"><div class="image"><img src="\Project\public\images\(4).png" alt=""></div></div>
+        <div class="img-card"><div class="image"><img src="\Project\public\images\(3).png" alt=""></div></div>
+        <div class="img-card"><div class="image"><img src="\Project\public\images\(5).png" alt=""></div></div>
+        <div class="img-card"><div class="image"><img src="\Project\public\images\(1).jpg" alt=""></div></div>
+        <div class="img-card"><div class="image"><img src="\Project\public\images\(2).jpg" alt=""></div></div>
 
     </div>
    </div>

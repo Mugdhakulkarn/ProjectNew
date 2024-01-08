@@ -19,12 +19,12 @@
           <p>Fork Infosystems</p>
         </div>
         <ul>
-          <li><a href="home/home.html">Home</a></li>
-          <li><a href="aboutUs/aboutUs.html">About Us</a></li>
-          <li><a href="gallery/gallery.html">Gallery</a></li>
-          <li><a href="courses/courses.html">Courses</a></li>
-          <li><a href="placement/placement.html">Placement</a></li>
-          <li><a href="contactUs/contactUs.html">Contact Us</a></li>
+        <li><a href="/Project/main.php">Home</a></li>
+          <li><a href="/Project/aboutUs/aboutUs.php">About Us</a></li>
+          <li><a href="/Project/gallery/gallery.php">Gallery</a></li>
+          <li><a href="/Project/courses/courses.php">Courses</a></li>
+          <li><a href="/Project/placement/placement.php">Placement</a></li>
+          <li><a href="/Project/contactUs/contactUs.php">Contact Us</a></li>
           <button class="signupbutton">Sign Up</button>
         </ul>
       </nav>

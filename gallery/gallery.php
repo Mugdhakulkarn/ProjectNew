@@ -18,12 +18,12 @@
           <p>Fork Infosystems</p>
         </div>
         <ul>
-          <li><a href="home/home.html">Home</a></li>
-          <li><a href="aboutUs/aboutUs.html">About Us</a></li>
-          <li><a href="gallery/gallery.html">Gallery</a></li>
-          <li><a href="courses/courses.html">Courses</a></li>
-          <li><a href="placement/placement.html">Placement</a></li>
-          <li><a href="contactUs/contactUs.html">Contact Us</a></li>
+        <li><a href="/Project/main.php">Home</a></li>
+          <li><a href="/Project/aboutUs/aboutUs.php">About Us</a></li>
+          <li><a href="/Project/gallery/gallery.php">Gallery</a></li>
+          <li><a href="/Project/courses/courses.php">Courses</a></li>
+          <li><a href="/Project/placement/placement.php">Placement</a></li>
+          <li><a href="/Project/contactUs/contactUs.php">Contact Us</a></li>
           <button class="signupbutton">Sign Up</button>
         </ul>
       </nav>
@@ -44,7 +44,7 @@
         
        <div class="main-img-container">
         <div class="img-container">
-          <div class="img-card1"><div class="mainimage"><img src="../assets/Images/1.jpg" class="full-width-image1" alt=""></div></div>
+          <div class="img-card1"><div class="mainimage"><img src="\Project\public\images\1.jpg" class="full-width-image1" alt=""></div></div>
         </div>
 
         <div class="banner-text1">
@@ -53,15 +53,15 @@
         </div>
       
         <div class="img-container">
-            <div class="img-card"><div class="image"><img src="../assets/Images/1.1.jpg" class="full-width-image" alt=""></div></div>
-            <div class="img-card"><div class="image"><img src="../assets/Images/1.1.jpg" class="full-width-image" alt=""></div></div>
-            <div class="img-card"><div class="image"><img src="../assets/Images/1.1.jpg" class="full-width-image" alt=""></div></div>
+            <div class="img-card"><div class="image"><img src="\Project\public\images\1.1.jpg" class="full-width-image" alt=""></div></div>
+            <div class="img-card"><div class="image"><img src="\Project\public\images\1.1.jpg" class="full-width-image" alt=""></div></div>
+            <div class="img-card"><div class="image"><img src="\Project\public\images\1.1.jpg" class="full-width-image" alt=""></div></div>
         </div>
         
         <div class="img-container">
-          <div class="img-card"><div class="image"><img src="../assets/Images/1.1.jpg" class="full-width-image" alt=""></div></div>
-          <div class="img-card"><div class="image"><img src="../assets/Images/1.1.jpg" class="full-width-image" alt=""></div></div>
-          <div class="img-card"><div class="image"><img src="../assets/Images/1.1.jpg" class="full-width-image" alt=""></div></div>
+          <div class="img-card"><div class="image"><img src="\Project\public\images\1.1.jpg" class="full-width-image" alt=""></div></div>
+          <div class="img-card"><div class="image"><img src="\Project\public\images\1.1.jpg" class="full-width-image" alt=""></div></div>
+          <div class="img-card"><div class="image"><img src="\Project\public\images\1.1.jpg" class="full-width-image" alt=""></div></div>
       </div>
        </div>
     

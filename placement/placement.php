@@ -19,12 +19,12 @@
           <p>Fork Infosystems</p>
         </div>
         <ul>
-          <li><a href="home/home.html">Home</a></li>
-          <li><a href="aboutUs/aboutUs.html">About Us</a></li>
-          <li><a href="gallery/gallery.html">Gallery</a></li>
-          <li><a href="courses/courses.html">Courses</a></li>
-          <li><a href="placement/placement.html">Placement</a></li>
-          <li><a href="contactUs/contactUs.html">Contact Us</a></li>
+        <li><a href="/Project/main.php">Home</a></li>
+          <li><a href="/Project/aboutUs/aboutUs.php">About Us</a></li>
+          <li><a href="/Project/gallery/gallery.php">Gallery</a></li>
+          <li><a href="/Project/courses/courses.php">Courses</a></li>
+          <li><a href="/Project/placement/placement.php">Placement</a></li>
+          <li><a href="/Project/contactUs/contactUs.php">Contact Us</a></li>
           <button class="signupbutton">Sign Up</button>
         </ul>
       </nav>
@@ -45,16 +45,16 @@
       
        <div class="main-img-container">
         <div class="img-container">
-            <div class="img-card"><div class="image"><img src="assets/images/(4).png" alt=""></div></div>
-            <div class="img-card"><div class="image"><img src="assets/images/(3).png" alt=""></div></div>
-            <div class="img-card"><div class="image"><img src="assets/images/(5).png" alt=""></div></div>
-            <div class="img-card"><div class="image"><img src="assets/images/(1).jpg" alt=""></div></div>
+            <div class="img-card"><div class="image"><img src="\Project\public\images\tcs.png" alt=""></div></div>
+            <div class="img-card"><div class="image"><img src="\Project\public\images\Synechron.jpg" alt=""></div></div>
+            <div class="img-card"><div class="image"><img src="\Project\public\images\webtech.png" alt=""></div></div>
+            <div class="img-card"><div class="image"><img src="\Project\public\images\iauro.jpg" alt=""></div></div>
         </div>
 
         <div class="img-container">
-          <div class="img-card"><div class="image"><img src="assets/images/(4).png" alt=""></div></div>
-          <div class="img-card"><div class="image"><img src="assets/images/(3).png" alt=""></div></div>
-          <div class="img-card"><div class="image"><img src="assets/images/(5).png" alt=""></div></div>
+          <div class="img-card"><div class="image"><img src="\Project\public\images\Mich.jpg" alt=""></div></div>
+          <div class="img-card"><div class="image"><img src="\Project\public\images\Optiquall.jpg" alt=""></div></div>
+          <div class="img-card"><div class="image"><img src="\Project\public\images\Yugensys.png" alt=""></div></div>
         </div>
 
        </div>
